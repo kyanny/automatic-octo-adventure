@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
     s.name = %q{sample_gem}
-    s.version = "1.0.0"
+    s.version = "2.0.0"
     s.date = %q{2011-09-29}
     s.summary = %q{sample_gem is the best}
     s.files = [
